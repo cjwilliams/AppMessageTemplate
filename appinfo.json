@@ -1,0 +1,22 @@
+{
+    "appKeys": {
+        "message": 1,
+        "status": 0
+    },
+    "capabilities": [
+        ""
+    ],
+    "companyName": "girlgrammer",
+    "longName": "AppMessageGitHub",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "AppMessageGitHub",
+    "uuid": "69370d1d-17b4-4ab2-a152-f1b97299a847",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
